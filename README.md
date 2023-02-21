@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, ### **I am Esther** from Nigeria.
+Hi, **I am Esther** from Nigeria.
 - 😄 Pronouns: ...she/her
 - 🌱 I’m building my skills in frontend development and currently learning javascript and react.
 - 👯 I’m looking to collaborate on open source projects.
