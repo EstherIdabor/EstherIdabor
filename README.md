@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-Hi, ### I am Esther from Nigeria.
+Hi, ### **I am Esther** from Nigeria.
 - 😄 Pronouns: ...she/her
 - 🌱 I’m building my skills in frontend development and currently learning javascript and react.
 - 👯 I’m looking to collaborate on open source projects.
 I believe one way to make an impact and create the future we want is through contributions to open source projects that are inclusive of everyone.
+
 I am pasionate about technical writing and currently honing my skill in technical writing. Technical writing affords every developer the opportunity to be expressive.
 <!--
 **EstherIdabor/EstherIdabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
